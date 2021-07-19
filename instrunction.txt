@@ -1,0 +1,4 @@
+npx instal
+npm install react-scripts --save
+npm start
+https://youtu.be/12l6lkW6JhE?t=123
